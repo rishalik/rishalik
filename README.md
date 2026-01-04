@@ -17,15 +17,9 @@ I am a **Senior Software Engineer** based in **Bengaluru** with over **6 years o
 
 ---
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?logo=dev.to)](https://dev.to/rishali_kalnad)
-
 ## 📝 Blog
 
-I write about backend engineering, Python, system design, and my software journey.
-
-<a href="https://dev.to/rishali_kalnad" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-Writing-black?style=flat-square&logo=dev.to" />
-</a>
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/rishali_kalnad)
 
 ---
 
