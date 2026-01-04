@@ -7,7 +7,7 @@ I am a **Senior Software Engineer** based in **Bengaluru** with over **6 years o
 - 🏗️ **Core Expertise:** Python (FastAPI), React, MongoDB, Docker, and CI/CD pipelines.
 - 🛠️ **System Scale:** Managed and automated workflows across **200+ embedded test stations**.
 - 🎯 **Goal:** Designing elegant, high-performance systems for Tier 1 tech challenges.
-- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/rishali-kalnad
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/rishali-kalnad)
 
 ---
 
