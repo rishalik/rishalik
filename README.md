@@ -7,7 +7,7 @@ I am a **Senior Software Engineer** based in **Bengaluru** with over **6 years o
 - 🏗️ **Core Expertise:** Python (FastAPI), React, MongoDB, Docker, and CI/CD pipelines.
 - 🛠️ **System Scale:** Managed and automated workflows across **200+ embedded test stations**.
 - 🎯 **Goal:** Designing elegant, high-performance systems for Tier 1 tech challenges.
-- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/rishali-kalnad) | [Email](mailto:kalnadrishali@gmail.com)
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/rishali-kalnad
 
 ---
 
@@ -17,40 +17,39 @@ I am a **Senior Software Engineer** based in **Bengaluru** with over **6 years o
 
 ---
 
-### 📊 Impact by the Numbers
+### 📊 Professional Impact by the Numbers
 
-| 🚀 90% | ⏱️ 80% | 📈 30% | 🖥️ 200+ |
+| 🚀 90% | ⏱️ 80% | 🖥️ 200+ | ⚡ 60% |
 | :--- | :--- | :--- | :--- |
-| **Reduction in Manual Effort** via automated log triage. | **Faster Debug Time** through automated leak detection. | **Reliability Boost** via automated log management. | **Test Stations** managed across embedded systems. |
+| [cite_start]**Reduction in Manual Triage** via NumPy-powered lexical analyzers[cite: 9]. | [cite_start]**Faster Debug Time** through automated memory-leak detection[cite: 6]. | [cite_start]**Test Stations** automated across embedded test infrastructure[cite: 6]. | [cite_start]**Faster Deployments** for firmware on iMX boards[cite: 18]. |
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Technical Expertise
 
-**Backend & Data**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+**Backend & Automation**
+[cite_start]![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi) ![AsyncIO](https://img.shields.io/badge/-AsyncIO-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) [cite: 13, 26]
 
-**Frontend & Design**
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend & Web**
+[cite_start]![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [cite: 13, 26]
 
-**DevOps & Automation**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**DevOps & Databases**
+[cite_start]![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white) [cite: 13, 26]
 
 ---
 
 ### 🏗️ Featured Engineering Solutions
-* **Jira Automation Server:** Full-stack solution for release gating and ticket comparison.
-* **Lexical Log Analyzer:** Built with NumPy/Regex to classify repetitive failure logs.
-* **BT-CC Power Testing:** Framework for Bluetooth power measurement using HCI/SCPI protocols.
 
----
+#### **Jira Automation & Release Gating Server**
+[cite_start]Designed a full-stack server to generate and compare release tickets, auto-highlighting differences and enforcing approval gating[cite: 10].
+- [cite_start]**Tech:** Python, FastAPI, MongoDB, React[cite: 13].
+- [cite_start]**Outcome:** Accelerated multi-step release tasks from hours to minutes[cite: 10, 11].
 
-### 📈 GitHub Activities
+#### **Lexical Failure Analyzer**
+[cite_start]Implemented an intelligent analyzer to classify and summarize repetitive failures across embedded systems[cite: 9].
+- [cite_start]**Tech:** Python, NumPy, Regex[cite: 9, 26].
+- [cite_start]**Outcome:** Achieved a **90% reduction** in manual log triage[cite: 9].
 
-![Rishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishalik&show_icons=true&theme=vision-glow)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishalik&layout=compact&theme=vision-glow)
-
----
-
-### 🤝 Let's Connect
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishali-kalnad/)
+#### **Automation Framework for Test Infrastructure**
+[cite_start]Automated weekly memory-leak detection across **200+ test stations**[cite: 6].
+- [cite_start]**Outcome:** Reduced debug time by **80%** and stabilized long-running pipelines[cite: 6].
