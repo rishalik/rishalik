@@ -1,12 +1,19 @@
 # Hi there, I'm Rishali Kalnad 👋
 
-### 🚀 Senior Software Engineer | Python & Full-Stack Specialist
-I am a **Senior Software Engineer** based in **Bengaluru** with over **6 years of experience**. I specialize in Python backend development, automation frameworks, and full-stack web solutions—building systems that bridge complex backend logic with real-time analytics.
+### 🚀 Senior Software Engineer | Python · AI/Data Engineering · Full-Stack
 
-- 🔭 **Impact at Broadcom & L&T:** Developed full-stack dashboards and automation tools that reduced manual debugging time by **80%** and triage effort by **90%**.
-- 🏗️ **Core Expertise:** Python (FastAPI), React, MongoDB, Docker, and CI/CD pipelines.
-- 🛠️ **System Scale:** Managed and automated workflows across **200+ embedded test stations**.
-- 🎯 **Goal:** Designing elegant, high-performance systems for Tier 1 tech challenges.
+I'm a Senior Software Engineer based in **Bengaluru** with 6+ years of experience,
+currently at **KPMG** on a Shell client engagement. I build Python backends,
+AI-assisted automation pipelines, and full-stack web systems that solve real
+operational problems at scale.
+
+- 🤖 **Currently building:** Invoice automation (OCR + Azure + OpenText) and
+  AIOps monitoring platforms with LangGraph & LangChain
+- 🔭 **Past impact:** Reduced manual triage by **90%** and debug time by **80%**
+  at Broadcom via automation tools across 200+ embedded test stations
+- 🏗️ **Core stack:** Python · FastAPI · React · MongoDB · Docker · CI/CD ·
+  PostgreSQL · Neo4j
+- 🎯 **Interests:** Agentic AI systems, data pipelines, and high-performance backends
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/rishali-kalnad)
 
 ---
